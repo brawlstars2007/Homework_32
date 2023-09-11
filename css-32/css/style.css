@@ -1,0 +1,35 @@
+.block,
+.inline {
+    background: rgb(221, 223, 206);
+}
+
+/* ================================= */
+
+.block {
+    /* border: 10px groove #36a050;
+    border-top: 15px double #ff7676;
+
+    border-bottom: 1px dotted #d0d322;
+    border-width: 20px;
+    border-style: dotted;
+    border-color: red;
+
+    border-bottom-color: rgb(66, 34, 124); */
+
+    /* border: 1px solid #000; */
+    /* border-radius: 10px 0 0 0; */
+
+    /* border-top-left-radius: 10px; */
+
+    outline: 10px groove #36a050;
+    ;
+}
+
+.inline {
+    /* border: 10px solid #000; */
+}
+
+.img {
+    border: 10px solid #ff0000;
+    border-radius: 30px;
+}
